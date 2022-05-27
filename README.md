@@ -6,6 +6,17 @@
 
 
 
+## usage
+
+```bash
+pip install frida-tools
+# open wechat
+hook.py
+# hook.py [output dir]
+```
+
+
+
 ## Credits
 
 <https://github.com/kksanyu/frida_with_wechat_applet>
